@@ -2519,7 +2519,7 @@
 "Master Farmer" : "농사의 달인",
 "Create a hoe with all possible enchantments at max level" : "가능한 모든 마법을 최고 수준으로 부여한 괭이를 만드세요",
 
-"Mob Hunter" : "몹 사냥꾼", 
+"Mob Hunter" : "몹 사냥꾼",
 "Defeat 250 mobs" : "250마리의 몹을 죽이세요",
 
 "Bloodthirsty" : "피에 굶주린 자",
@@ -3811,7 +3811,7 @@
 
 
 # 'Experience' label in Experience Rewards text
-"Experience" : "",
+"Experience" : "경험치",
 
 
 
@@ -3852,26 +3852,26 @@
 
 
 # Welcome message
-"This world is using ": "",
-"Blaze": "",
-"and": "",
-"Cave": "",
-"'s Advancements Pack!": "",
+"This world is using ": "본 세계에는",
+"Blaze": "Blaze",
+"and": "and",
+"Cave": "Cave",
+"'s Advancements Pack!": "의 발전 과제 팩이 적용되어 있습니다!",
 
 " Over ": "",
 ## Number is inserted here
-" brand new advancements in your Minecraft world!": "",
+" brand new advancements in your Minecraft world!": "개 이상의 완전히 새로운 발전 과제!",
 
-" - Created by ": "",
+" - Created by ": " - 제작자: ",
 ## Cavinator1
 
-" - For information ": "",
-"click here": "",
+" - For information ": " - 자세한 정보: ",
+"click here": "바로가기",
 
-" - Join my discord ": "",
-"here": "",
+" - Join my discord ": " - Discord 서버: ",
+"here": "초대 링크",
 
-"Special thanks to my patreon donors: ": "",
+"Special thanks to my patreon donors: ": "Patreon 후원자분들께 감사드립니다: ",
 ## Patreon Donors' names are listed here
 
 
@@ -3879,52 +3879,52 @@
 
 # Configuration Menu
 ## BlazeandCave
-"'s Advancements Pack Config": "",
+"'s Advancements Pack Config": "의 발전 과제 환경설정",
 
-"Welcome Message currently enabled": "",
-"Welcome Message currently disabled": "",
+"Welcome Message currently enabled": "환영 메시지 활성화됨",
+"Welcome Message currently disabled": "환영 메시지 비활성화됨",
 
-"Item Rewards currently enabled": "",
-"Item Rewards currently disabled": "",
+"Item Rewards currently enabled": "아이템 보상 활성화됨",
+"Item Rewards currently disabled": "아이템 보상 비활성화됨",
 
-"Experience Rewards currently enabled": "",
-"Experience Rewards currently disabled": "",
+"Experience Rewards currently enabled": "경험치 보상 활성화됨",
+"Experience Rewards currently disabled": "경험치 보상 비활성화됨",
 
-"Trophies currently enabled": "",
-"Trophies currently disabled": "",
+"Trophies currently enabled": "트로피 활성화됨",
+"Trophies currently disabled": "트로피 비활성화됨",
 
-"Display scoreboard on tab list": "",
-"Clear scoreboard from tab list": "",
+"Display scoreboard on tab list": "탭 리스트에 스코어보드 표시",
+"Clear scoreboard from tab list": "탭 리스트에서 스코어보드 제거",
 
-"Display scoreboard on sidebar": "",
-"Clear scoreboard from sidebar": "",
+"Display scoreboard on sidebar": "사이드바에 스코어보드 표시",
+"Clear scoreboard from sidebar": "사이드바에서 스코어보드 제거",
 
-"Update scoreboard": "",
+"Update scoreboard": "스코어보드 갱신",
 
-"Grant trophies": "",
+"Grant trophies": "트로피 수여",
 
-"Click to enable": "",
-"Click to disable": "",
-"Click to run": "",
+"Click to enable": "클릭하여 활성화",
+"Click to disable": "클릭하여 비활성화",
+"Click to run": "클릭하여 실행",
 
 # Update scoreboard message
-"The advancement count of all players currently online has been updated.": "",
+"The advancement count of all players currently online has been updated.": "접속 중인 모든 플레이어의 발전 과제 달성 수가 갱신되었습니다.",
 
 # Grant trophies are you sure message
-"Are you sure?": "",
-"This function should only be used in worlds that used the Advancements Pack before updating to the Trophy Update.": "",
-"This function may also grossly fill inventories so make sure everyone is prepared to receive them!": "",
+"Are you sure?": "정말 진행하시겠습니까?",
+"This function should only be used in worlds that used the Advancements Pack before updating to the Trophy Update.": "트로피 업데이트 이전부터 본 발전 과제 팩이 적용되었던 세계를 플레이 중인 경우에만 진행하시기 바랍니다.",
+"This function may also grossly fill inventories so make sure everyone is prepared to receive them!": "엄청난 수의 트로피가 주어져 보관함이 넘칠 수 있으므로, 모든 인원이 받을 준비가 되었는지 다시 한 번 확인하세요!",
 
-"[ Yes ]": "",
-"Click to confirm": "",
+"[ Yes ]": "[ 예 ]",
+"Click to confirm": "클릭하여 확인",
 
-"[ No ]": "",
-"Click to go back": "",
+"[ No ]": "[ 아니요 ]",
+"Click to go back": "클릭하여 취소",
 
 # Grant trophies confirmation message
-"All players have been granted trophies.": "",
-"Players that have been granted trophies by this function in the past did not receive any now. To manually re-enable trophy granting for them use the command:": "",
-"Click to insert command into chat": ""
+"All players have been granted trophies.": "모든 플레이어에게 트로피들이 수여되었습니다.",
+"Players that have been granted trophies by this function in the past did not receive any now. To manually re-enable trophy granting for them use the command:": "이전에 트로피 수여를 진행한 적이 있는 플레이어는 제외되었습니다. 해당 플레이어들의 트로피 수여를 재활성화시키려면 아래 명령어를 입력하세요.",
+"Click to insert command into chat": "클릭하여 채팅창에 명령어 불러오기"
 
 
 
