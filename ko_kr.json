@@ -3305,8 +3305,8 @@
 "Budget Channeling": "",
 "Craft a Lightning Rod using Copper Ingots": "",
 
-"Surge Protector": "",
-"Protect a villager from an undesired shock without starting a fire": "",
+"Surge Protector": "번개 멈춰!",
+"Protect a villager from an undesired shock without starting a fire": "주민의 감전 사고를 화재 없이 막으세요",
 
 "Called Shot": "",
 "Get struck by lightning while standing on a Lightning Rod": "",
@@ -3320,11 +3320,11 @@
 "Master Copper Miner": "",
 "Mine enough copper to make a stack of Copper Blocks": "",
 
-"Wax On": "",
-"Use Honeycombs to wax a Copper Block, preventing it from oxidising": "",
+"Wax On": "밀랍을 칠하자",
+"Use Honeycombs to wax a Copper Block, preventing it from oxidising": "구리 블록에 벌집 조각을 사용하세요!",
 
-"Wax Off": "",
-"Use an axe to scrape wax off of a Copper Block": "",
+"Wax Off": "밀랍을 벗기자",
+"Use an axe to scrape wax off of a Copper Block": "구리 블록의 밀랍칠을 벗기세요!",
 
 "The Statue of Liberty": "",
 "Obtain a fully oxidized Block of Copper": "",
@@ -3441,8 +3441,8 @@
 "Get killed by a Goat that rammed into you.": "",
 "You have Goat to be kidding me!": "",
 
-"Whatever Floats Your Goat!": "",
-"Get in a Boat and float with a Goat": "",
+"Whatever Floats Your Goat!": "염소 떴소",
+"Get in a Boat and float with a Goat": "염소와 함께 보트에 타세요",
 
 "Screaming Milk": "",
 "Milk a screaming Goat": "",
@@ -3450,8 +3450,8 @@
 "Cephalight": "",
 "Kill a Glow Squid": "",
 
-"Glow and Behold": "",
-"Use a Glow Ink Sac to light up a sign": "",
+"Glow and Behold": "밝은 말 고운 말",
+"Use a Glow Ink Sac to light up a sign": "표지판의 글자가 빛나게 만드세요",
 
 "Flashy Items": "",
 "Put an item up for display in a Glowing Item Frame": "",
@@ -3459,11 +3459,11 @@
 "Iceologer Should've Won": "",
 "Kill 100 Glow Squids": "",
 
-"The Cutest Predator": "",
-"Catch an Axolotl in a Bucket": "",
+"The Cutest Predator": "귀여운 포식자",
+"Catch an Axolotl in a Bucket": "양동이로 아흘로틀을 잡으세요",
 
-"The Healing Power of Friendship": "",
-"Team up with an Axolotl and win a fight": "",
+"The Healing Power of Friendship": "우정의 치유력",
+"Team up with an Axolotl and win a fight": "아흘로틀과 협력해 싸워 이기세요",
 
 "Thanks a lotl": "",
 "Team up with an Axolotl in an Ocean Monument to help clear the curse of the Elders": "",
@@ -3489,8 +3489,8 @@
 "Llama Festival": "",
 "Sit on Llamas with all 16 colors of carpet. Getting off will reset your progress": "",
 
-"Is it a Bird?": "",
-"Look at a Parrot through a Spyglass": "",
+"Is it a Bird?": "새인가?",
+"Look at a Parrot through a Spyglass": "망원경으로 앵무새를 바라보세요",
 
 "So Hungry I Could Eat a Horse!": "",
 "Feed a Horse every type of food that it can eat": "",
@@ -3504,8 +3504,8 @@
 "This Snow is Snowier": "",
 "Fall into some Powder Snow": "",
 
-"Light as a Rabbit": "",
-"Walk on Powder Snow… without sinking in it": "",
+"Light as a Rabbit": "토끼처럼 가볍게",
+"Walk on Powder Snow… without sinking in it": "가루눈 위를 걸으세요... 빠지지 않고요",
 
 "Powder-full": "",
 "Pick up some Powder Snow in a Bucket": "",
@@ -3615,8 +3615,8 @@
 "Jenga": "",
 "Ride a Strider riding another Strider riding a boat riding a minecart": "",
 
-"Is it a Balloon?": "",
-"Look at a Ghast through a Spyglass": "",
+"Is it a Balloon?": "풍선인가?",
+"Look at a Ghast through a Spyglass": "망원경으로 가스트를 바라보세요",
 
 "A Piglin's Best Friend": "",
 "Give a total of 500 gold to Piglins during your nether adventures": "",
@@ -3642,8 +3642,8 @@
 
 
 
-"Is it a Plane?": "",
-"Look at the Ender Dragon through a Spyglass": "",
+"Is it a Plane?": "비행기인가?",
+"Look at the Ender Dragon through a Spyglass": "망원경으로 엔더 드래곤을 바라보세요",
 
 "Good Luck Getting This One": "",
 "Kill a baby Turtle, a Witch, a Phantom, an Elder Guardian and a Piglin Brute with one piercing arrow in The End": "",
