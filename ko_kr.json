@@ -3901,7 +3901,7 @@
 
 "Update scoreboard": "스코어보드 갱신",
 
-"Grant trophies": "트로피 수여",
+"Grant trophies": "트로피 지급",
 
 "Click to enable": "클릭하여 활성화",
 "Click to disable": "클릭하여 비활성화",
@@ -3912,8 +3912,8 @@
 
 # Grant trophies are you sure message
 "Are you sure?": "정말 진행하시겠습니까?",
-"This function should only be used in worlds that used the Advancements Pack before updating to the Trophy Update.": "트로피 업데이트 이전부터 본 발전 과제 팩이 적용되었던 세계를 플레이 중인 경우에만 진행하시기 바랍니다.",
-"This function may also grossly fill inventories so make sure everyone is prepared to receive them!": "엄청난 수의 트로피가 주어져 보관함이 넘칠 수 있으므로, 모든 인원이 받을 준비가 되었는지 다시 한 번 확인하세요!",
+"This function should only be used in worlds that used the Advancements Pack before updating to the Trophy Update.": "'트로피 업데이트' 이전부터 본 발전 과제 팩이 적용되었던 세계에서만 진행하시기 바랍니다.",
+"This function may also grossly fill inventories so make sure everyone is prepared to receive them!": "엄청난 수의 트로피가 쏟아져 보관함이 넘칠 수 있으므로, 모든 인원이 받을 준비가 되었는지 다시 한 번 확인하세요!",
 
 "[ Yes ]": "[ 예 ]",
 "Click to confirm": "클릭하여 확인",
@@ -3922,8 +3922,8 @@
 "Click to go back": "클릭하여 취소",
 
 # Grant trophies confirmation message
-"All players have been granted trophies.": "모든 플레이어에게 트로피들이 수여되었습니다.",
-"Players that have been granted trophies by this function in the past did not receive any now. To manually re-enable trophy granting for them use the command:": "이전에 트로피 수여를 진행한 적이 있는 플레이어는 제외되었습니다. 해당 플레이어들의 트로피 수여를 재활성화시키려면 아래 명령어를 입력하세요.",
+"All players have been granted trophies.": "모든 플레이어에게 트로피들이 지급되었습니다.",
+"Players that have been granted trophies by this function in the past did not receive any now. To manually re-enable trophy granting for them use the command:": "이전에 트로피 지급을 진행한 적이 있는 플레이어는 제외되었습니다. 해당 플레이어들의 트로피 지급을 재활성화시키려면 아래 명령어를 입력하세요.",
 "Click to insert command into chat": "클릭하여 채팅창에 명령어 불러오기"
 
 
@@ -3933,5 +3933,4 @@
 
 
 # All advancements and trophies that get added in versions 1.13 or later will be added down here for easy locating by translators who wish to update their language file
-}
 }
