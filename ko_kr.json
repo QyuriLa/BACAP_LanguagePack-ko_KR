@@ -3729,7 +3729,7 @@
 
 "Compost Mate": "연쇄 퇴비 사건",
 "There is ": "우리 중 ",
-"1 Composter": "임포스터가 1명",
+"1 Composter": "컴포스터가 1명",
 " among us": " 있습니다",
 
 "Black Bird": "까마귀",
@@ -3803,7 +3803,7 @@
 "Aaah!..": "빨려들어간다!",
 
 "Mario's Hat": "마리오의 모자",
-"Mario, number one! Yahoo!": "It's me! Mario! ",
+"Mario, number one! Yahoo!": "It's me! Mario!",
 
 
 
@@ -3921,7 +3921,7 @@
 
 # Grant trophies confirmation message
 "All players have been granted trophies.": "모두에게 트로피를 지급했습니다.",
-"Players that have been granted trophies by this function in the past did not receive any now. To manually re-enable trophy granting for them use the command:": "이전에 트로피를 지급받은 적 있는 플레이어는 제외되었습니다. 쟂활성화시키려면 다음 명령어를 입력하세요.",
+"Players that have been granted trophies by this function in the past did not receive any now. To manually re-enable trophy granting for them use the command:": "이전에 트로피를 지급받은 적 있는 플레이어는 제외되었습니다. 재활성화시키려면 다음 명령어를 입력하세요.",
 "Click to insert command into chat": "클릭하여 복사"
 
 
