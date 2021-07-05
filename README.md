@@ -1,4 +1,4 @@
-# BACAP_LanguagePack_Kor
+# BACAP_LanguagePack-ko_KR
 
 BlazeandCave Advancement Pack - Language Pack Korean Translation
 
