@@ -3328,19 +3328,19 @@
 "Obtain a fully oxidized Block of Copper": "아무 종류의 산화된 구리 블록을 얻으세요",
 
 "Sly Copper: The Copper Heist": "구리의 산화 과정",
-"Collect a stack of every oxidizing stage of Copper Block, Cut Copper, Cut Copper Slabs and Stairs, and the waxed variants of them all": "모든 구리 블록 종류를 모으세요. 녹이 얼마나 슬었던, 밀랍칠을 했던 상관없이요",
+"Collect a stack of every oxidizing stage of Copper Block, Cut Copper, Cut Copper Slabs and Stairs, and the waxed variants of them all": "모든 산화 정도의 모든 형태(블록, 깎인 블록, 깎인 반 블록 및 계단)의 구리 블록과, 그 각각의 밀랍칠한 형태를 한 뭉치씩 모으세요",
 
 "G.I. Geode": "반짝반짝 크리스탈",
 "Find an Amethyst Geode and mine an Amethyst Cluster": "자수정 군집을 캐내세요",
 
-"Good For Your Bones": "방해하지마!",
+"Good For Your Bones": "방해하지 마!",
 "Mine some Calcite encasing an Amethyst Geode": "방해석을 캐내세요",
 
 "Galileo Figaro": "갈릴레오 갈릴레이",
 "Zoom in on something using a Spyglass": "망원경으로 먼 곳을 보세요",
 
 "Pixel Perfect": "매의 눈",
-"Use a Spyglass to stare at a bat from at least 50 blocks away": "50 블록 떨어진 박쥐를 망원경으로 바라보세요",
+"Use a Spyglass to stare at a bat from at least 50 blocks away": "50블록 떨어진 박쥐를 망원경으로 바라보세요",
 
 "Blackout": "불 좀 꺼줄래?",
 "Craft Tinted Glass using Glass and Amethyst Shards and use it to block out light": "차광 유리를 만들어 빛을 완전히 차단하세요",
@@ -3355,7 +3355,7 @@
 "Use shears to obtain Glow Lichen from an underground cave": "동굴에서 발광 이끼를 잘라내세요",
 
 "That's the point!": "뾰족뾰족해",
-"Obtain some Pointed Dripstone from a Dripstone Cave": "점적석에 찔리지 않도록 조심하세요!",
+"Obtain some Pointed Dripstone from a Dripstone Cave": "점적석 동굴에서 점적석을 얻으세요",
 
 "Deep Slate Nine": "깊고 깊은 곳의 돌멩이",
 "Mine deep enough that the stone darkens": "심층암 조약돌을 캐내세요",
@@ -3406,25 +3406,25 @@
 "Sit in a cauldron filled with lava": "가마솥을 용암으로 채우세요",
 
 "Rock Polish": "광이 나는 돌",
-"Craft every type of polished block": "모든 종류의 윤나는 돌들을 모으세요",
+"Craft every type of polished block": "모든 종류의 윤나는 돌을 모으세요",
 
 "Deepslate Conspiracy": "깊이 있는 예술",
-"Craft all forms of Deepslate, Polished Deepslate, Deepslate Bricks and Deepslate Tiles": "모든 종류의 심층암 블록들을 모으세요",
+"Craft all forms of Deepslate, Polished Deepslate, Deepslate Bricks and Deepslate Tiles": "모든 종류의 심층암 블록을 모으세요",
 
 "Skyblock": "스카이 블록",
-"Place a Grass Block high in the sky": "야, 이거 흑요석으로 바뀌었는데?",
+"Place a Grass Block high in the sky": "아주 높은 하늘에 잔디 블록을 놓으세요",
 
 
 
 
 "One-course meal": "아낌없이 받는 나무",
-"Use bone meal to grow a sapling into a tree": "나무를 자라게 해주세요",
+"Use bone meal to grow a sapling into a tree": "뼛가루로 묘목을 나무로 성장시키세요",
 
 "Come to the countryside!": "뿌린 대로 거둔다",
-"Plant every single type of crop on farmland": "모든 씨앗들을 심으세요",
+"Plant every single type of crop on farmland": "모든 종류의 씨앗을 심으세요",
 
 "An Apple a Day": "매일 아침 사과 한 알",
-"Eat an Apple every day for 30 in-game days": "30일 동안 사과를 꾸준히 먹으세요",
+"Eat an Apple every day for 30 in-game days": "사과를 30일 동안 꾸준히 먹으세요",
 
 
 
@@ -3433,7 +3433,7 @@
 "Slaughter a Goat": "염소를 죽이세요",
 
 "Billy the Kid": "성악설",
-"Breed two Goats together using Wheat": "이 친구도 자라서 사람을 치고 다닐까요?",
+"Breed two Goats together using Wheat": "염소를 교배시키세요",
 
 "Goat Simulator": "고트 시뮬레이터",
 "Get killed by a Goat that rammed into you.": "염소에게 밀쳐져 절벽 밑으로 떨어지세요",
@@ -3443,7 +3443,7 @@
 "Get in a Boat and float with a Goat": "염소와 함께 보트에 타세요",
 
 "Screaming Milk": "이걸 우유라고 해야할까?",
-"Milk a screaming Goat": "염소에게서 젖을 짜세요",
+"Milk a screaming Goat": "소리지르는 염소에게서 젖을 짜세요",
 
 "Cephalight": "이쁜 쓰레기",
 "Kill a Glow Squid": "발광 오징어를 죽이세요",
@@ -3475,7 +3475,7 @@
 "Axeolotl": "불쌍해!",
 "Kill an Axolotl with an axe": "도끼로 아홀로틀을 죽이세요",
 
-"Humble Bundle": "험블번들",
+"Humble Bundle": "험블 번들",
 "Craft a Bundle using Rabbit Hide and String": "다른 게임은 없답니다",
 
 "Fractal": "꾸러미식 구성",
@@ -3485,7 +3485,7 @@
 "Ride a saddled pig in a boat in a minecart": "광산 수레 속 보트를 타고 있는 돼지를 타세요",
 
 "Llama Festival": "전국 라마 자랑",
-"Sit on Llamas with all 16 colors of carpet. Getting off will reset your progress": "16가지 카펫을 등에 얹은 라마들을 모두 타세요",
+"Sit on Llamas with all 16 colors of carpet. Getting off will reset your progress": "모든 색의 라마 양탄자에 올라타세요",
 
 "Is it a Bird?": "새인가?",
 "Look at a Parrot through a Spyglass": "망원경으로 앵무새를 바라보세요",
@@ -3496,7 +3496,7 @@
 
 
 
-"Smooth Operator": "미끄러움 주의",
+"Smooth Operator": "미끄럼 주의",
 "Slip and slide on some ice": "빙판길에서 미끄러지세요",
 
 "This Snow is Snowier": "눈다운 눈",
@@ -3515,28 +3515,28 @@
 "Feed cake to every type of panda": "판다 친구들에게 케이크를 먹이세요",
 
 "Edge of the Jungle": "이거 어떻게 찾은 거지?",
-"Enter a Modified Jungle Edge - the rarest biome in Minecraft": "마인크래프트에서 가장 희귀한 바이옴을 찾으세요",
+"Enter a Modified Jungle Edge - the rarest biome in Minecraft": "마인크래프트에서 가장 희귀한 바이옴... 변형된 정글 변두리를 찾으세요",
 
 
 
 
 "This Dirt is Dirtier": "흙다운 흙",
-"Trade for some Rooted Dirt from a Wandering Trader": "떠돌이 상인에게 뿌리내린 흙을 거래하세요",
+"Trade for some Rooted Dirt from a Wandering Trader": "떠돌이 상인과 거래하여 뿌리내린 흙을 사세요",
 
 "Leaflet Drop": "내려갑니다",
 "Fall through a Big Dripleaf": "큰 흘림잎 위에서 떨어지세요",
 
 "Hey! You two should kiss!": "어... 하던 거 마저 하세요",
-"Use a Spyglass to look at two Villagers sitting in a Boat from at least 50 blocks away": "주민 두 명이 타고 있는 보트를 50 블록 떨어진 곳에서 망원경으로 바라보세요",
+"Use a Spyglass to look at two Villagers sitting in a Boat from at least 50 blocks away": "주민 두 명이 타고 있는 보트를 50블록 떨어진 곳에서 망원경으로 바라보세요",
 
 "Rare Candy Shop": "경험치 병이 거래가 된다고?",
-"Trade for a Bottle o’ Enchanting from a Cleric": "성직자와 경험치 병을 거래하세요",
+"Trade for a Bottle o’ Enchanting from a Cleric": "성직자와 거래하여 경험치 병을 사세요",
 
 "Buy Low, Sell High": "싸게 사고, 비싸게 팔고",
 "Trade with a villager while under the Hero of the Village effect": "마을의 영웅이라는 명목으로 주민에게서 할인 받으세요",
 
 "Justice": "정의구현",
-"Kill each type of Illager with a single crossbow arrow": "모든 우민들을 쇠뇌로 죽이세요",
+"Kill each type of Illager with a single crossbow arrow": "모든 종류의 우민들을 쇠뇌로 죽이세요",
 
 
 
@@ -3545,7 +3545,7 @@
 "Slay the elusive Chicken Jockey": "모든 종류의 치킨 조키를 죽이세요",
 
 "Basketblock Championship": "슬랜덩크맨",
-"Kill Endermen that are holding every block that they can hold": "엔더맨을 죽이세요, 그들이 들 수 있는 모든 블록을 집은 엔더맨을요",
+"Kill Endermen that are holding every block that they can hold": "가능한 모든 종류의 블록을 든 엔더맨을 죽이세요",
 
 "Pupil Poppers": "특이한 식성",
 "Eat 1000 Spider Eyes": "거미 눈을 1000개 먹으세요",
@@ -3626,10 +3626,10 @@
 "Acquire every beacon-induced effect at once": "신호기로 받을 수 있는 모든 효과를 한번에 받으세요",
 
 "Master Netherite Miner": "네더라이트 수집광",
-"Mine enough Ancient Debris to make a stack of Netherite Ingots (don’t worry, mining a stack of Netherite Blocks is optional in this datapack, I’m not that evil…)": "고대 잔해를 충분히 채굴해 네더라이트 주괴를 한 뭉치 만드세요",
+"Mine enough Ancient Debris to make a stack of Netherite Ingots (don’t worry, mining a stack of Netherite Blocks is optional in this datapack, I’m not that evil…)": "네더라이트 주괴를 한 뭉치 만들 수 있을 만큼의 고대 잔해를 모으세요 (네더라이트 블록 한 뭉치 과제는 선택사항이니까 걱정 마세요)",
 
 "Netherite Mad Lad": "네더라이트에 미친 자",
-"Be an absolute madlad and grind enough Ancient Debris to make a stack of Netherite Blocks (this is hidden and not required for Advancement Legend btw…)": "솔직히 말해서 진짜로 이걸 할 줄은 몰랐어요",
+"Be an absolute madlad and grind enough Ancient Debris to make a stack of Netherite Blocks (this is hidden and not required for Advancement Legend btw…)": "일단 인간이기를 포기하고, 네더라이트 블록을 한 뭉치 만들 수 있을 만큼의 고대 잔해를 모으세요 (이건 숨겨진 도전과제고, '발전 과제의 전설' 조건에 들어가지 않아요)",
 
 
 
@@ -3653,7 +3653,7 @@
 "Summon the Ender Dragon, the Wither, and a Raid within thirty seconds of each other, then defeat all of them without taking damage": "엔더 드래곤, 위더, 습격을 모두 동시에 시작해서 대미지를 받지 않은 채 전부 끝내버리세요",
 
 "Telescopic": "보라는 별은 안 보고",
-"Look at every mob using a Spyglass, each from at least 25 blocks away": "모든 몹을 25 블록 떨어진 곳에서 망원경으로 바라보세요",
+"Look at every mob using a Spyglass, each from at least 25 blocks away": "모든 몹을 25블록 떨어진 곳에서 망원경으로 바라보세요",
 
 
 
@@ -3678,7 +3678,7 @@
 
 "Use a shovel to create dirt paths": "삽으로 잔디 길을 내세요",
 
-"Deal eight hearts of damage in a single melee blow": "한번의 공격으로 8 대미지를 입히세요",
+"Deal eight hearts of damage in a single melee blow": "한 번의 공격으로 8 대미지를 입히세요",
 
 
 
@@ -3728,7 +3728,7 @@
 "Did you at least harvest the sugar cane?": "다른 작물에는 관심이 없으신가 봐요",
 
 "Compost Mate": "연쇄 퇴비 사건",
-"There is ": "우리 중에 ",
+"There is ": "우리 중 ",
 "1 Composter": "임포스터가 1명",
 " among us": " 있습니다",
 
