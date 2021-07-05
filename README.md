@@ -2,7 +2,7 @@
 
 BlazeandCave Advancement Pack - Language Pack Korean Translation
 
-BlazeandCave 발전 과제 팩의 한국어 번역 버전관리를 위한 리포지토리입니다.
+마인크래프트 BlazeandCave 발전 과제 팩의 한국어 번역 버전관리를 위한 리포지토리입니다.
 
 ## 번역본 기준 비공식 스프레드시트
 
