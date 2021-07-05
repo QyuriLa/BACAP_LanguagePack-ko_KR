@@ -8,8 +8,8 @@
 # Currently the text that appears with reward functions are not translatable - support for translating the reward functions messages will come in a later update.
 
 # Language: Korean
-# Author: 원숭이 (1.9), WebCam, Fujiwarano_Kai, ReaLizer (1.11.2)
-# Pack version supported: 1.11.2
+# Author: 원숭이 (1.9), WebCam, Fujiwarano_Kai, ReaLizer (1.11.2), NewDays (1.12)
+# Pack version supported: 1.12
 
 # All language entries are organised in alphabetical order of file name as of 1.3
 # All new advancements added in updates later than 1.3 (1.4, 1.5 and so on) will be put at the bottom of the file for easy locating and adding by translators
@@ -324,7 +324,7 @@
 "Prevent an endermite from maturing": "엔더마이트를 박멸하세요",
 
 "Eskimo": "에스키모>Barbearian",
-"It may be illegal to hunt polar bears in real life, but not in Minecraft": "북극곰 사냥은 불법이라고요? 여기선 아닙니다",
+"It may be illegal to hunt polar bears in real life, but not in Minecraft": "북극곰 사냥은 불법이라고요? 여기선 아니랍니다",
 
 "Ew Ew Ew!": "소름 끼쳐!",
 "Kill a spider": "거미를 죽이세요",
@@ -1019,7 +1019,7 @@
 "Craft a note block": "소리 블록을 만드세요",
 
 "Observer Buddy": "지켜보고 있다",
-"Craft an observer": "감지기를 만드세요",
+"Craft an observer": "관측기를 만드세요",
 
 "Pressure Detector": "압력 감지 센서",
 "Use a pressure plate to craft a detector rail": "압력판을 이용해서 탐지 레일을 만드세요",
@@ -2022,7 +2022,7 @@
 "Global Railway Network": "대륙 횡단 철도",
 "Ride 100km in a minecart": "광산 수레로 100km를 주행하세요",
 
-"Happy Birthday!": "생일 축하합니다!>Happy New Year!",
+"Happy Birthday!": "생일 축하합니다!",
 "Play for a whole year!": "인게임 시간으로 1년을 보내세요>Play for a whole Minecraft year",
 
 "Horse Training": "말 달리자",
@@ -2519,7 +2519,7 @@
 "Master Farmer" : "농사의 달인",
 "Create a hoe with all possible enchantments at max level" : "가능한 모든 마법을 최고 수준으로 부여한 괭이를 만드세요",
 
-"Mob Hunter" : "몹 사냥꾼",
+"Mob Hunter" : "몹 사냥꾼", 
 "Defeat 250 mobs" : "250마리의 몹을 죽이세요",
 
 "Bloodthirsty" : "피에 굶주린 자",
@@ -3296,29 +3296,27 @@
 "Play for a whole Minecraft year" : "인게임 시간으로 1년 동안 플레이하세요",
 
 
-
-
 ## All advancements added in version 1.12 are here
-"Coppers and Robbers": "",
-"Smelt a Copper Ingot": "",
+"Coppers and Robbers": "이거 구린데?",
+"Smelt a Copper Ingot": "구리 주괴를 제련하세요",
 
-"Budget Channeling": "",
-"Craft a Lightning Rod using Copper Ingots": "",
+"Budget Channeling": "벼락 막대기",
+"Craft a Lightning Rod using Copper Ingots": "구리로 피뢰침을 만드세요",
 
 "Surge Protector": "번개 멈춰!",
 "Protect a villager from an undesired shock without starting a fire": "주민의 감전 사고를 화재 없이 막으세요",
 
-"Called Shot": "",
-"Get struck by lightning while standing on a Lightning Rod": "",
+"Called Shot": "피뢰침이 내가 된다!",
+"Get struck by lightning while standing on a Lightning Rod": "피뢰침의 번개를 대신 맞으세요",
 
-"Don’t Come a Copper!": "",
-"Craft some Cut Copper": "",
+"Don’t Come a Copper!": "그래도 구린데?",
+"Craft some Cut Copper": "깎인 구리를 만드세요",
 
-"Copper Miner": "",
-"Mine a stack of Raw Copper": "",
+"Copper Miner": "구리 부자",
+"Mine a stack of Raw Copper": "구리 원석을 한 뭉치 채굴하세요",
 
-"Master Copper Miner": "",
-"Mine enough copper to make a stack of Copper Blocks": "",
+"Master Copper Miner": "구리 수집광",
+"Mine enough copper to make a stack of Copper Blocks": "구리를 충분히 채굴해서 구리 블록을 한 뭉치 만드세요",
 
 "Wax On": "밀랍을 칠하자",
 "Use Honeycombs to wax a Copper Block, preventing it from oxidising": "구리 블록에 벌집 조각을 사용하세요!",
@@ -3326,318 +3324,318 @@
 "Wax Off": "밀랍을 벗기자",
 "Use an axe to scrape wax off of a Copper Block": "구리 블록의 밀랍칠을 벗기세요!",
 
-"The Statue of Liberty": "",
-"Obtain a fully oxidized Block of Copper": "",
+"The Statue of Liberty": "자유의 여신상",
+"Obtain a fully oxidized Block of Copper": "아무 종류의 산화된 구리 블록을 얻으세요",
 
-"Sly Copper: The Copper Heist": "",
-"Collect a stack of every oxidizing stage of Copper Block, Cut Copper, Cut Copper Slabs and Stairs, and the waxed variants of them all": "",
+"Sly Copper: The Copper Heist": "구리의 산화 과정",
+"Collect a stack of every oxidizing stage of Copper Block, Cut Copper, Cut Copper Slabs and Stairs, and the waxed variants of them all": "모든 구리 블록 종류를 모으세요. 녹이 얼마나 슬었던, 밀랍칠을 했던 상관없이요",
 
-"G.I. Geode": "",
-"Find an Amethyst Geode and mine an Amethyst Cluster": "",
+"G.I. Geode": "반짝반짝 크리스탈",
+"Find an Amethyst Geode and mine an Amethyst Cluster": "자수정 군집을 캐내세요",
 
-"Good For Your Bones": "",
-"Mine some Calcite encasing an Amethyst Geode": "",
+"Good For Your Bones": "방해하지마!",
+"Mine some Calcite encasing an Amethyst Geode": "방해석을 캐내세요",
 
-"Galileo Figaro": "",
-"Zoom in on something using a Spyglass": "",
+"Galileo Figaro": "갈릴레오 갈릴레이",
+"Zoom in on something using a Spyglass": "망원경으로 먼 곳을 보세요",
 
-"Pixel Perfect": "",
-"Use a Spyglass to stare at a bat from at least 50 blocks away": "",
+"Pixel Perfect": "매의 눈",
+"Use a Spyglass to stare at a bat from at least 50 blocks away": "50 블록 떨어진 박쥐를 망원경으로 바라보세요",
 
-"Blackout": "",
-"Craft Tinted Glass using Glass and Amethyst Shards and use it to block out light": "",
+"Blackout": "불 좀 꺼줄래?",
+"Craft Tinted Glass using Glass and Amethyst Shards and use it to block out light": "차광 유리를 만들어 빛을 완전히 차단하세요",
 
-"Amethyst Miner": "",
-"Mine a stack of Amethyst Blocks, Amethyst Clusters, and every size of Amethyst Bud": "",
+"Amethyst Miner": "자수정 수집광",
+"Mine a stack of Amethyst Blocks, Amethyst Clusters, and every size of Amethyst Bud": "자수정 블록과 모든 크기의 자수정을 한 뭉치 채굴하세요",
 
-"Mr. Bean": "",
-"Mine and craft a stack of Raw Iron, Copper and Gold Blocks": "",
+"Mr. Bean": "날 것 그대로",
+"Mine and craft a stack of Raw Iron, Copper and Gold Blocks": "구리, 철, 황금 원석 블록을 한 뭉치 채굴하세요",
 
-"Filthy Lich": "",
-"Use shears to obtain Glow Lichen from an underground cave": "",
+"Filthy Lich": "동굴 속 빛 한 줌",
+"Use shears to obtain Glow Lichen from an underground cave": "동굴에서 발광 이끼를 잘라내세요",
 
-"That's the point!": "",
-"Obtain some Pointed Dripstone from a Dripstone Cave": "",
+"That's the point!": "뾰족뾰족해",
+"Obtain some Pointed Dripstone from a Dripstone Cave": "점적석에 찔리지 않도록 조심하세요!",
 
-"Deep Slate Nine": "",
-"Mine deep enough that the stone darkens": "",
+"Deep Slate Nine": "깊고 깊은 곳의 돌멩이",
+"Mine deep enough that the stone darkens": "심층암 조약돌을 캐내세요",
 
-"Tuff Stuff": "",
-"Mine some Tuff in the deep underground": "",
+"Tuff Stuff": "뭉치고 뭉쳐서",
+"Mine some Tuff in the deep underground": "응회암을 캐내세요",
 
-"Moss Maker": "",
-"Use Bone Meal on Moss to spread its wonderful lushness across hard blocks of stone": "",
+"Moss Maker": "구르는 돌에도 이끼는 낀다",
+"Use Bone Meal on Moss to spread its wonderful lushness across hard blocks of stone": "이끼 블록에 뼛가루를 써서 주변 블록을 이끼로 만들어버리세요",
 
-"Iggy": "",
-"Obtain an Azalea": "",
+"Iggy": "진달래 좀 달래",
+"Obtain an Azalea": "진달래를 얻으세요",
 
-"Particle Fan": "",
-"Obtain a Spore Blossom": "",
+"Particle Fan": "활짝 열린 꽃",
+"Obtain a Spore Blossom": "포자 꽃을 얻으세요",
 
-"Lush Hour": "",
-"Obtain a stack of all lush-related blocks": "",
+"Lush Hour": "모아봐요 동굴의 숲",
+"Obtain a stack of all lush-related blocks": "무성한 동굴 속 식물들을 한 뭉치씩 모으세요",
 
-"A Shiny Treat": "",
-"Eat some Glow Berries": "",
+"A Shiny Treat": "눈이 번쩍 뜨이는 맛",
+"Eat some Glow Berries": "발광 열매를 먹으세요",
 
-"Bulldozer": "",
-"Destroy a total of 10,000 blocks of stone": "",
+"Bulldozer": "불도저",
+"Destroy a total of 10,000 blocks of stone": "돌을 10,000번 채굴하세요",
 
-"Strike a Light": "",
-"Craft Flint and Steel and use it to light the ground on fire": "",
+"Strike a Light": "방화범",
+"Craft Flint and Steel and use it to light the ground on fire": "불이 산으로 번지지 않도록 주의하세요",
 
-"Bonfire Night": "",
-"Light every flammable block on fire": "",
-
-
+"Bonfire Night": "불난 데 기름칠",
+"Light every flammable block on fire": "불에 타는 모든 블록에 불을 붙이세요",
 
 
-"Setting up the mood": "",
-"Place a candle and light it using Flint and Steel": "",
 
-"The Ritual Begins": "",
-"Get one stack of Black Candles": "",
+
+"Setting up the mood": "무드 있게",
+"Place a candle and light it using Flint and Steel": "초에 불을 붙이세요",
+
+"The Ritual Begins": "의식의 절차",
+"Get one stack of Black Candles": "검은색 초를 한 뭉치 얻으세요",
 
 # Happy Birthday!
-"Place a candle on a cake": "",
+"Place a candle on a cake": "케이크에 초를 꽂으세요",
 
-"Pane in the Glass": "",
-"Craft a stack of all 16 colors of stained glass panes": "",
+"Pane in the Glass": "스테인드글라스",
+"Craft a stack of all 16 colors of stained glass panes": "모든 색유리 판을 한 뭉치씩 모으세요",
 
-"Hot Tub": "",
-"Sit in a cauldron filled with lava": "",
+"Hot Tub": "끓어오르는 가마솥",
+"Sit in a cauldron filled with lava": "가마솥을 용암으로 채우세요",
 
-"Rock Polish": "",
-"Craft every type of polished block": "",
+"Rock Polish": "광이 나는 돌",
+"Craft every type of polished block": "모든 종류의 윤나는 돌들을 모으세요",
 
-"Deepslate Conspiracy": "",
-"Craft all forms of Deepslate, Polished Deepslate, Deepslate Bricks and Deepslate Tiles": "",
+"Deepslate Conspiracy": "깊이 있는 예술",
+"Craft all forms of Deepslate, Polished Deepslate, Deepslate Bricks and Deepslate Tiles": "모든 종류의 심층암 블록들을 모으세요",
 
-"Skyblock": "",
-"Place a Grass Block high in the sky": "",
-
-
-
-
-"One-course meal": "",
-"Use bone meal to grow a sapling into a tree": "",
-
-"Come to the countryside!": "",
-"Plant every single type of crop on farmland": "",
-
-"An Apple a Day": "",
-"Eat an Apple every day for 30 in-game days": "",
+"Skyblock": "스카이 블록",
+"Place a Grass Block high in the sky": "야, 이거 흑요석으로 바뀌었는데?",
 
 
 
 
-"Goat out of here!": "",
-"Slaughter a Goat": "",
+"One-course meal": "아낌없이 받는 나무",
+"Use bone meal to grow a sapling into a tree": "나무를 자라게 해주세요",
 
-"Billy the Kid": "",
-"Breed two Goats together using Wheat": "",
+"Come to the countryside!": "뿌린 대로 거둔다",
+"Plant every single type of crop on farmland": "모든 씨앗들을 심으세요",
 
-"Goat Simulator": "",
-"Get killed by a Goat that rammed into you.": "",
-"You have Goat to be kidding me!": "",
+"An Apple a Day": "매일 아침 사과 한 알",
+"Eat an Apple every day for 30 in-game days": "30일 동안 사과를 꾸준히 먹으세요",
+
+
+
+
+"Goat out of here!": "악마의 동물",
+"Slaughter a Goat": "염소를 죽이세요",
+
+"Billy the Kid": "성악설",
+"Breed two Goats together using Wheat": "이 친구도 자라서 사람을 치고 다닐까요?",
+
+"Goat Simulator": "고트 시뮬레이터",
+"Get killed by a Goat that rammed into you.": "염소에게 밀쳐져 절벽 밑으로 떨어지세요",
+"You have Goat to be kidding me!": "저 정신나간 염소...",
 
 "Whatever Floats Your Goat!": "염소 떴소",
 "Get in a Boat and float with a Goat": "염소와 함께 보트에 타세요",
 
-"Screaming Milk": "",
-"Milk a screaming Goat": "",
+"Screaming Milk": "이걸 우유라고 해야할까?",
+"Milk a screaming Goat": "염소에게서 젖을 짜세요",
 
-"Cephalight": "",
-"Kill a Glow Squid": "",
+"Cephalight": "이쁜 쓰레기",
+"Kill a Glow Squid": "발광 오징어를 죽이세요",
 
 "Glow and Behold": "밝은 말 고운 말",
 "Use a Glow Ink Sac to light up a sign": "표지판의 글자가 빛나게 만드세요",
 
-"Flashy Items": "",
-"Put an item up for display in a Glowing Item Frame": "",
+"Flashy Items": "각광받는 아이템",
+"Put an item up for display in a Glowing Item Frame": "발광 아이템 액자에 아이템을 끼워넣으세요",
 
-"Iceologer Should've Won": "",
-"Kill 100 Glow Squids": "",
+"Iceologer Should've Won": "왜 너가 뽑힌 거야?",
+"Kill 100 Glow Squids": "발광 오징어를 100마리 죽이세요",
 
 "The Cutest Predator": "귀여운 포식자",
-"Catch an Axolotl in a Bucket": "양동이로 아흘로틀을 잡으세요",
+"Catch an Axolotl in a Bucket": "양동이로 아홀로틀을 잡으세요",
 
 "The Healing Power of Friendship": "우정의 치유력",
-"Team up with an Axolotl and win a fight": "아흘로틀과 협력해 싸워 이기세요",
+"Team up with an Axolotl and win a fight": "아홀로틀과 협력해 싸워 이기세요",
 
-"Thanks a lotl": "",
-"Team up with an Axolotl in an Ocean Monument to help clear the curse of the Elders": "",
+"Thanks a lotl": "영원한 내 친구",
+"Team up with an Axolotl in an Ocean Monument to help clear the curse of the Elders": "아홀로틀과 함께 해저 유적에서 싸우세요",
 
-"Axolittle": "",
-"Breed two Axolotls together using Tropical Fish": "",
+"Axolittle": "아홀리틀",
+"Breed two Axolotls together using Tropical Fish": "아홀로틀을 번식시키세요",
 
-"Axolotl of them": "",
-"Catch all variants of Axolotls inside a Bucket": "",
+"Axolotl of them": "아홀로틀 친구들",
+"Catch all variants of Axolotls inside a Bucket": "모든 종류의 아홀로틀을 양동이에 담으세요",
 
-"Axeolotl": "",
-"Kill an Axolotl with an axe": "",
+"Axeolotl": "불쌍해!",
+"Kill an Axolotl with an axe": "도끼로 아홀로틀을 죽이세요",
 
-"Humble Bundle": "",
-"Craft a Bundle using Rabbit Hide and String": "",
+"Humble Bundle": "험블번들",
+"Craft a Bundle using Rabbit Hide and String": "다른 게임은 없답니다",
 
-"Fractal": "",
-"Put a Bundle in a Bundle in a Bundle in a Bundle in a Bundle… 16 layers deep": "",
+"Fractal": "꾸러미식 구성",
+"Put a Bundle in a Bundle in a Bundle in a Bundle in a Bundle… 16 layers deep": "꾸러미 안에 꾸러미 안에 꾸러미 안에...",
 
-"Swine Sailing": "",
-"Ride a saddled pig in a boat in a minecart": "",
+"Swine Sailing": "굳이 이걸 해야 돼?",
+"Ride a saddled pig in a boat in a minecart": "광산 수레 속 보트를 타고 있는 돼지를 타세요",
 
-"Llama Festival": "",
-"Sit on Llamas with all 16 colors of carpet. Getting off will reset your progress": "",
+"Llama Festival": "전국 라마 자랑",
+"Sit on Llamas with all 16 colors of carpet. Getting off will reset your progress": "16가지 카펫을 등에 얹은 라마들을 모두 타세요",
 
 "Is it a Bird?": "새인가?",
 "Look at a Parrot through a Spyglass": "망원경으로 앵무새를 바라보세요",
 
-"So Hungry I Could Eat a Horse!": "",
-"Feed a Horse every type of food that it can eat": "",
+"So Hungry I Could Eat a Horse!": "그거 내가 먹을 건데!",
+"Feed a Horse every type of food that it can eat": "말에게 먹일 수 있는 모든 음식을 먹이세요",
 
 
 
 
-"Smooth Operator": "",
-"Slip and slide on some ice": "",
+"Smooth Operator": "미끄러움 주의",
+"Slip and slide on some ice": "빙판길에서 미끄러지세요",
 
-"This Snow is Snowier": "",
-"Fall into some Powder Snow": "",
+"This Snow is Snowier": "눈다운 눈",
+"Fall into some Powder Snow": "가루눈 속에 파묻히세요",
 
 "Light as a Rabbit": "토끼처럼 가볍게",
 "Walk on Powder Snow… without sinking in it": "가루눈 위를 걸으세요... 빠지지 않고요",
 
-"Powder-full": "",
-"Pick up some Powder Snow in a Bucket": "",
+"Powder-full": "스노우 버킷 챌린지",
+"Pick up some Powder Snow in a Bucket": "양동이에 가루눈을 채우세요",
 
-"Boatception": "",
-"Get in a boat within a shipwreck": "",
+"Boatception": "숨이 차오른다, 가자",
+"Get in a boat within a shipwreck": "난파선 위에 있는 보트를 타세요",
 
-"Pandamonium": "",
-"Feed cake to every type of panda": "",
+"Pandamonium": "판다와 생일 파티",
+"Feed cake to every type of panda": "판다 친구들에게 케이크를 먹이세요",
 
-"Edge of the Jungle": "",
-"Enter a Modified Jungle Edge - the rarest biome in Minecraft": "",
-
-
-
-
-"This Dirt is Dirtier": "",
-"Trade for some Rooted Dirt from a Wandering Trader": "",
-
-"Leaflet Drop": "",
-"Fall through a Big Dripleaf": "",
-
-"Hey! You two should kiss!": "",
-"Use a Spyglass to look at two Villagers sitting in a Boat from at least 50 blocks away": "",
-
-"Rare Candy Shop": "",
-"Trade for a Bottle o’ Enchanting from a Cleric": "",
-
-"Buy Low, Sell High": "",
-"Trade with a villager while under the Hero of the Village effect": "",
-
-"Justice": "",
-"Kill each type of Illager with a single crossbow arrow": "",
+"Edge of the Jungle": "이거 어떻게 찾은 거지?",
+"Enter a Modified Jungle Edge - the rarest biome in Minecraft": "마인크래프트에서 가장 희귀한 바이옴을 찾으세요",
 
 
 
 
-"Poultry Boy": "",
-"Slay the elusive Chicken Jockey": "",
+"This Dirt is Dirtier": "흙다운 흙",
+"Trade for some Rooted Dirt from a Wandering Trader": "떠돌이 상인에게 뿌리내린 흙을 거래하세요",
 
-"Basketblock Championship": "",
-"Kill Endermen that are holding every block that they can hold": "",
+"Leaflet Drop": "내려갑니다",
+"Fall through a Big Dripleaf": "큰 흘림잎 위에서 떨어지세요",
 
-"Pupil Poppers": "",
-"Eat 1000 Spider Eyes": "",
+"Hey! You two should kiss!": "어... 하던 거 마저 하세요",
+"Use a Spyglass to look at two Villagers sitting in a Boat from at least 50 blocks away": "주민 두 명이 타고 있는 보트를 50 블록 떨어진 곳에서 망원경으로 바라보세요",
 
+"Rare Candy Shop": "경험치 병이 거래가 된다고?",
+"Trade for a Bottle o’ Enchanting from a Cleric": "성직자와 경험치 병을 거래하세요",
 
+"Buy Low, Sell High": "싸게 사고, 비싸게 팔고",
+"Trade with a villager while under the Hero of the Village effect": "마을의 영웅이라는 명목으로 주민에게서 할인 받으세요",
 
-
-"It's time consuming": "",
-"Kill something using a clock": "",
-
-"Inspector Gadget": "",
-"Kill a zombie while holding a spyglass": "",
-
-"Rock, Paper, Shears!": "",
-"Beat a zombie at rock, paper, shears": "",
-
-"Backfire": "",
-"Kill a Blaze using a Blaze Rod while both you and it are on fire": "",
+"Justice": "정의구현",
+"Kill each type of Illager with a single crossbow arrow": "모든 우민들을 쇠뇌로 죽이세요",
 
 
 
 
-"Take Notes": "",
-"Tune a Note Block through every possible note": "",
+"Poultry Boy": "닭 없는 치킨 조키",
+"Slay the elusive Chicken Jockey": "모든 종류의 치킨 조키를 죽이세요",
 
-"Noteworthy": "",
-"Play every possible instrument on a Note Block": "",
+"Basketblock Championship": "슬랜덩크맨",
+"Kill Endermen that are holding every block that they can hold": "엔더맨을 죽이세요, 그들이 들 수 있는 모든 블록을 집은 엔더맨을요",
 
-"Travelling Bard": "",
-"Play a Note Block in every type of biome": "",
-
-"Vibe Check": "",
-"Obtain a Sculk Sensor": "",
+"Pupil Poppers": "특이한 식성",
+"Eat 1000 Spider Eyes": "거미 눈을 1000개 먹으세요",
 
 
 
 
-"Over-Overkill": "",
-"Deal sixteen hearts of damage in a single melee blow": "",
+"It's time consuming": "시간 다 됐어",
+"Kill something using a clock": "시계를 들고 무언가를 죽이세요",
+
+"Inspector Gadget": "너도 멀리 볼래?",
+"Kill a zombie while holding a spyglass": "망원경을 들고 좀비를 죽이세요",
+
+"Rock, Paper, Shears!": "가위, 바위, 보!",
+"Beat a zombie at rock, paper, shears": "가위, 돌, 종이로 좀비를 죽이세요",
+
+"Backfire": "불맛 좀 봐라",
+"Kill a Blaze using a Blaze Rod while both you and it are on fire": "불타고 있는 블레이즈를 블레이즈 막대로 죽이세요",
+
+
+
+
+"Take Notes": "오선지 좀 줘봐",
+"Tune a Note Block through every possible note": "소리 블록으로 모든 음계를 연주하세요",
+
+"Noteworthy": "혼자서 하는 합주",
+"Play every possible instrument on a Note Block": "소리 블록으로 모든 악기를 연주하세요",
+
+"Travelling Bard": "내 음악이 전 세계에 울려퍼지길",
+"Play a Note Block in every type of biome": "모든 바이옴에 소리 블록을 놓으세요",
+
+"Vibe Check": "진동 측정기",
+"Obtain a Sculk Sensor": "스컬크 탐지기를 얻으세요",
+
+
+
+
+"Over-Overkill": "십버킬",
+"Deal sixteen hearts of damage in a single melee blow": "한번의 공격으로 16 대미지를 입히세요",
 
 
 
 
 # The Haggler
-"Trade with villagers 100 times": "",
+"Trade with villagers 100 times": "주민과 100번 거래하세요",
 
-"Big Spender": "",
-"Trade with villagers 500 times": "",
+"Big Spender": "통 큰 소비자",
+"Trade with villagers 500 times": "주민과 500번 거래하세요",
 
-"STONKS!": "",
-"Trade with villagers 2500 times": "",
-
-
+"STONKS!": "호구",
+"Trade with villagers 2500 times": "주민과 2500번 거래하세요",
 
 
-"Ancient Restoration": "",
-"Rebuild and reactivate a Ruined Portal": "",
 
-"Hot Spring": "",
-"Sit in water in the Nether": "",
 
-"Polar Opposites": "",
-"Start freezing in the Nether": "",
+"Ancient Restoration": "포탈 재건 공사",
+"Rebuild and reactivate a Ruined Portal": "포탈 잔해를 원상 복구시키세요",
 
-"Jenga": "",
-"Ride a Strider riding another Strider riding a boat riding a minecart": "",
+"Hot Spring": "물이 있었는데요, 없었습니다",
+"Sit in water in the Nether": "네더에서 물을 뿌리세요",
+
+"Polar Opposites": "기상이변",
+"Start freezing in the Nether": "네더의 기후를 바꿔버리세요",
+
+"Jenga": "젠가",
+"Ride a Strider riding another Strider riding a boat riding a minecart": "광산 수레 속 보트를 타고 있는 스트라이더를 타고 있는 스트라이더를 타세요",
 
 "Is it a Balloon?": "풍선인가?",
 "Look at a Ghast through a Spyglass": "망원경으로 가스트를 바라보세요",
 
-"A Piglin's Best Friend": "",
-"Give a total of 500 gold to Piglins during your nether adventures": "",
+"A Piglin's Best Friend": "주민보단 피글린이지",
+"Give a total of 500 gold to Piglins during your nether adventures": "피글린과 500번 거래하세요",
 
-"Instant Mining": "",
-"Hold a Diamond or Netherite Pickaxe enchanted with Efficiency V while under the Haste II effect": "",
+"Instant Mining": "에너자이저",
+"Hold a Diamond or Netherite Pickaxe enchanted with Efficiency V while under the Haste II effect": "성급함 II 효과와 효율 V 곡괭이를 사용해 돌을 캐세요",
 
-"Beacon Overlord": "",
-"Acquire every beacon-induced effect at once": "",
+"Beacon Overlord": "뭐든지 한 번에",
+"Acquire every beacon-induced effect at once": "신호기로 받을 수 있는 모든 효과를 한번에 받으세요",
 
-"Master Netherite Miner": "",
-"Mine enough Ancient Debris to make a stack of Netherite Ingots (don’t worry, mining a stack of Netherite Blocks is optional in this datapack, I’m not that evil…)": "",
+"Master Netherite Miner": "네더라이트 수집광",
+"Mine enough Ancient Debris to make a stack of Netherite Ingots (don’t worry, mining a stack of Netherite Blocks is optional in this datapack, I’m not that evil…)": "고대 잔해를 충분히 채굴해 네더라이트 주괴를 한 뭉치 만드세요",
 
-"Netherite Mad Lad": "",
-"Be an absolute madlad and grind enough Ancient Debris to make a stack of Netherite Blocks (this is hidden and not required for Advancement Legend btw…)": "",
-
-
+"Netherite Mad Lad": "네더라이트에 미친 자",
+"Be an absolute madlad and grind enough Ancient Debris to make a stack of Netherite Blocks (this is hidden and not required for Advancement Legend btw…)": "솔직히 말해서 진짜로 이걸 할 줄은 몰랐어요",
 
 
-"Gas Bomb": "",
-"Ignite a Creeper of each possible effect using Flint and Steel": "",
+
+
+"Gas Bomb": "가스 폭탄",
+"Ignite a Creeper of each possible effect using Flint and Steel": "물약 효과를 가진 크리퍼를 터뜨리세요",
 
 
 
@@ -3645,233 +3643,233 @@
 "Is it a Plane?": "비행기인가?",
 "Look at the Ender Dragon through a Spyglass": "망원경으로 엔더 드래곤을 바라보세요",
 
-"Good Luck Getting This One": "",
-"Kill a baby Turtle, a Witch, a Phantom, an Elder Guardian and a Piglin Brute with one piercing arrow in The End": "",
+"Good Luck Getting This One": "제일 까다로운 발전과제",
+"Kill a baby Turtle, a Witch, a Phantom, an Elder Guardian and a Piglin Brute with one piercing arrow in The End": "아기 거북, 마녀, 팬텀, 엘더 가디언, 피글린 야수를 엔드에서 한 발의 화살로 전부 죽이세요",
 
 
 
 
-"The Perfect Run": "",
-"Summon the Ender Dragon, the Wither, and a Raid within thirty seconds of each other, then defeat all of them without taking damage": "",
+"The Perfect Run": "퍼펙트 런",
+"Summon the Ender Dragon, the Wither, and a Raid within thirty seconds of each other, then defeat all of them without taking damage": "엔더 드래곤, 위더, 습격을 모두 동시에 시작해서 대미지를 받지 않은 채 전부 끝내버리세요",
 
-"Telescopic": "",
-"Look at every mob using a Spyglass, each from at least 25 blocks away": "",
+"Telescopic": "보라는 별은 안 보고",
+"Look at every mob using a Spyglass, each from at least 25 blocks away": "모든 몹을 25 블록 떨어진 곳에서 망원경으로 바라보세요",
 
 
 
 
 # Renamed advancements and description changes in 1.12
-"Professional": "",
+"Professional": "거래의 달인",
 
-"Hot Reels!": "",
+"Hot Reels!": "스트라이더, 돼지를 따라 날다",
 
-"Netherite Miner": "",
+"Netherite Miner": "고대 잔해 부자",
 
-"Stepping on Legos": "",
-"Walk on some hot Magma Blocks in the Nether": "",
+"Stepping on Legos": "휴, 레고인줄 알았네",
+"Walk on some hot Magma Blocks in the Nether": "마그마 블록 위를 걸으세요",
 
-"Mine a stack of Raw Iron": "",
+"Mine a stack of Raw Iron": "철 원석을 한 뭉치 채굴하세요",
 
-"Mine a stack of Raw Gold": "",
+"Mine a stack of Raw Gold": "황금 원석을 한 뭉치 채굴하세요",
 
-"Craft and ride a boat to sail on the high seas": "",
+"Craft and ride a boat to sail on the high seas": "보트를 만들어 바다를 항해하세요",
 
-"Mine a stack of Netherrack, Basalt, Blackstone and Magma in the Nether": "",
+"Mine a stack of Netherrack, Basalt, Blackstone and Magma in the Nether": "네더랙, 현무암, 흑암, 마그마 블록을 한 뭉치씩 채굴하세요",
 
-"Use a shovel to create dirt paths": "",
+"Use a shovel to create dirt paths": "삽으로 잔디 길을 내세요",
 
-"Deal eight hearts of damage in a single melee blow": "",
+"Deal eight hearts of damage in a single melee blow": "한번의 공격으로 8 대미지를 입히세요",
 
 
 
 
 # Hardcore-Friendly Version for 1.12 description changes
-"Get stung by a bee": "",
+"Get stung by a bee": "벌에게 쏘이세요",
 
-"Get rammed into by a Goat.": "",
+"Get rammed into by a Goat.": "염소에게 밀쳐지세요",
 
-"Obtain a carved pumpkin enchanted with Curse of Binding. Be careful not to put it on!": "",
+"Obtain a carved pumpkin enchanted with Curse of Binding. Be careful not to put it on!": "귀속 저주가 부여된 조각된 호박을 얻으세요, 절대로 쓰면 안돼요!",
 
 
 
 
 # Trophies added in 1.12
-"Octuple Compressed Cobblestone": "",
-"Just imagine how much cobblestone it contains…": "",
+"Octuple Compressed Cobblestone": "어디까지 들어갈까?",
+"Just imagine how much cobblestone it contains…": "진짜로 더 이상은 무리야...",
 
-"Golden Cobblestone": "",
-"Congratulations!": "",
-"You mined 10,000 blocks of Cobblestone": "",
-"and unlocked the Golden Cobblestone Skin!": "",
+"Golden Cobblestone": "조약돌이 금으로 보여...",
+"Congratulations!": "축하드려요!",
+"You mined 10,000 blocks of Cobblestone": "언제 그렇게 많이 캐셨대요?",
+"and unlocked the Golden Cobblestone Skin!": "이제 좀 쉬셔도 되지 않아요?",
 
-"Weathered Copper BlocK": "",
-"It was spelt like this for six whole snapshots": "",
+"Weathered Copper BlocK": "세월의 흔적",
+"It was spelt like this for six whole snapshots": "시간이 벌써 이렇게나 흘렀네요",
 
-"Copper Shortsword": "",
-"The Moon Lord fears no weapon, but this one… it scares him": "",
+"Copper Shortsword": "구리 단검",
+"The Moon Lord fears no weapon, but this one… it scares him": "그래서 구리 도구들은 어디있죠?",
 
-"Baseball Bat": "",
-"What?... Oh, when you said stare at a bat,": "",
-"I thought you meant this bat!": "",
+"Baseball Bat": "야구 '방망이'",
+"What?... Oh, when you said stare at a bat,": "방망이가 아니라 박쥐 아니야?",
+"I thought you meant this bat!": "그냥 그러려니 해...",
 
-"Energy Crystal": "",
-"Looks like a slimy slug sucked all the power out of it…": "",
+"Energy Crystal": "힘의 원천",
+"Looks like a slimy slug sucked all the power out of it…": "이 크리스탈을 만지면 엄청난 힘을 얻게 될겁니다",
 
-"Bean Block": "",
-"Mmm, tasty": "",
+"Bean Block": "이거 부대찌개에 넣어볼까?",
+"Mmm, tasty": "생각만 해도 군침이 싹 도는걸",
 
-"Silver Armor Stand": "",
-"To display your best armor set!": "",
+"Silver Armor Stand": "거치대도 명품으로",
+"To display your best armor set!": "아끼는 옷을 걸어놓으세요!",
 
-"Annoying Orange": "",
-"Hey apple, can you spit seeds?": "",
+"Annoying Orange": "질투하는 오렌지",
+"Hey apple, can you spit seeds?": "사과야, 너도 씨앗 없니?",
 
-"Mr Finch's Hoe": "",
-"Did you at least harvest the sugar cane?": "",
+"Mr Finch's Hoe": "진정한 농부",
+"Did you at least harvest the sugar cane?": "다른 작물에는 관심이 없으신가 봐요",
 
-"Compost Mate": "",
-"There is ": "",
-"1 Composter": "",
-" among us": "",
+"Compost Mate": "연쇄 퇴비 사건",
+"There is ": "우리 중에 ",
+"1 Composter": "임포스터가 1명",
+" among us": " 있습니다",
 
-"Black Bird": "",
-"They should add Crows to Minecraft. Caw!": "",
+"Black Bird": "까마귀",
+"They should add Crows to Minecraft. Caw!": "마인크래프트에도 까마귀를 추가해줬으면, 까악!",
 
-"Fake Tropical Fish": "",
-"Not as beautiful, but much tastier": "",
+"Fake Tropical Fish": "짭대어",
+"Not as beautiful, but much tastier": "열대어는 아니지만, 나름대로 맛있는걸?",
 
-"Barry B. Benson's Hive": "",
-"According to all known laws of aviation…": "",
+"Barry B. Benson's Hive": "곰돌이 푸가 있었으면...",
+"According to all known laws of aviation…": "걔가 있으면, 내가 쉴 수도 있을 텐데...",
 
-"Ice Wand": "",
-"The Ice Wand was trapped in a tomb of ice for ages,": "",
-"sealed away by those who feared its power": "",
+"Ice Wand": "얼음 지팡이",
+"The Ice Wand was trapped in a tomb of ice for ages,": "이 지팡이는 사람들에 의해 봉인되어 있었습니다",
+"sealed away by those who feared its power": "이제 당신이 지팡이의 봉인을 풀 순간입니다",
 
-"Llama Drama": "",
-"In memoriam of the Great Spitting Massacre of 2021": "",
+"Llama Drama": "드라마 같은 인생",
+"In memoriam of the Great Spitting Massacre of 2021": "2021 국제 침 뱉기 대회 우승자",
 
-"Matryoshka Doll": "",
-"And they don't stop coming,": "",
-"and they don't stop coming,": "",
-"and they don't stop coming…": "",
+"Matryoshka Doll": "마트료시카",
+"And they don't stop coming,": "이걸 열면 다른 게 있고,",
+"and they don't stop coming,": "이걸 열면 다른 게 있고,",
+"and they don't stop coming…": "이걸 열면 다른 게 있고...",
 
-"Basketblock": "",
-"That's right Number 7, it's a cube!": "",
+"Basketblock": "농...육면체?",
+"That's right Number 7, it's a cube!": "야, 이거 골대에 꼈는데?",
 
-"Etho's Anvil": "",
-"Awarded to distinguished individuals who complete Etho’s challenge": "",
+"Etho's Anvil": "배 안 아파요?",
+"Awarded to distinguished individuals who complete Etho’s challenge": "개비스콘 하나 먹을래요?",
 
-"Multiweapon": "",
-"It's a sword, axe and…": "",
-"Never mind, it broke": "",
+"Multiweapon": "멀티웨폰",
+"It's a sword, axe and…": "이건 검도 되고, 도끼도 되고...",
+"Never mind, it broke": "그만 하자, 어차피 부서질 건데",
 
-"Bamboo Sword": "",
-"Not the best material for a weapon…": "",
+"Bamboo Sword": "죽도로 죽도록 때린다",
+"Not the best material for a weapon…": "그리 좋은 무기는 아니지만...",
 
-"The Jungle Book": "",
-"In the jungle, the mighty jungle…": "",
+"The Jungle Book": "정글 북",
+"In the jungle, the mighty jungle…": "In the jungle, the mighty jungle~",
 
-"The Moon": "",
-"Yeah, it's just me, you, and the moon": "",
+"The Moon": "거대한 달",
+"Yeah, it's just me, you, and the moon": "어, 안녕? 난 달이야",
 
-"The Salad Bowl": "",
-"Perfect for serving justice in": "",
+"The Salad Bowl": "샐러드 볼",
+"Perfect for serving justice in": "다이어트에 최적화된 음식",
 
-"Steam Engine": "",
-"The beginning of the Industrial Revolution": "",
+"Steam Engine": "증기 기관",
+"The beginning of the Industrial Revolution": "산업 혁명의 시발점",
 
-"New Year's Firework": "",
-"It's the final countdown!": "",
+"New Year's Firework": "새해를 알리는 폭죽",
+"It's the final countdown!": "3, 2, 1! 새해 복 많이 받으세요!",
 
-"Big Pointy Arrow": "",
-"Things are on the up and up!": "",
+"Big Pointy Arrow": "어서오세요, 호갱님",
+"Things are on the up and up!": "물가가 치솟고 있어요!",
 
-"One-Punch Man's Fist": "",
-"ONE PUUUUUNNNCCHHH!!!": "",
-"(though in honesty killing everything in one punch": "",
-"gets kinda boring after awhile…)": "",
+"One-Punch Man's Fist": "원펀맨의 주먹",
+"ONE PUUUUUNNNCCHHH!!!": "원퍼-언!!!",
+"(though in honesty killing everything in one punch": "모든 걸 한 방에 끝낼 수 있다면,",
+"gets kinda boring after awhile…)": "조금 따분하지 않을까?",
 
-"Gilded Blade": "",
-"A powerful weapon wielded by ancient mobs": "",
+"Gilded Blade": "피글린의 검",
+"A powerful weapon wielded by ancient mobs": "이 검은 피글린들 사이에서 대대로 내려오는 검입니다",
 
-"Brick Astley": "",
-"Nether gonna brick you up!": "",
+"Brick Astley": "네더라이트 주괴",
+"Nether gonna brick you up!": "힝! 속았지?",
 
-"Ultimate Flex": "",
-"Dab on dem haters": "",
+"Ultimate Flex": "진짜 존경합니다",
+"Dab on dem haters": "이걸로 신호기를 작동시켜도 되겠어요",
 
-"Wormhole": "",
-"Is this some kind of portal?": "",
-"Aaah!..": "",
+"Wormhole": "웜홀",
+"Is this some kind of portal?": "잠깐만, 이거 어디랑 연결되어 있는거야?",
+"Aaah!..": "빨려들어간다!",
 
-"Mario's Hat": "",
-"Mario, number one! Yahoo!": "",
+"Mario's Hat": "마리오의 모자",
+"Mario, number one! Yahoo!": "It's me! Mario! ",
 
 
 
 
 # 'Experience' label in Experience Rewards text
-"Experience" : "경험치",
+"Experience" : "XP",
 
 
 
 
 # Text that appears when unlocking a new tab
-"You have unlocked the root of the Adventure tab": "",
+"You have unlocked the root of the Adventure tab": "모험 탭이 해금되었습니다",
 
-"You have unlocked the root of the Animals tab": "",
+"You have unlocked the root of the Animals tab": "동물 탭이 해금되었습니다",
 
-"You have unlocked the root of the Biomes tab": "",
+"You have unlocked the root of the Biomes tab": "지역 탭이 해금되었습니다",
 
-"You have unlocked the root of the Building tab": "",
+"You have unlocked the root of the Building tab": "건축 탭이 해금되었습니다",
 
-"You have unlocked the root of the Super Challenges tab": "",
-"WARNING: These are very difficult": "",
+"You have unlocked the root of the Super Challenges tab": "극한 과제 탭이 해금되었습니다",
+"WARNING: These are very difficult": "엄청 어려움 주의!",
 
-"You have unlocked the root of the Enchanting tab": "",
+"You have unlocked the root of the Enchanting tab": "마법 탭이 해금되었습니다",
 
-"You have unlocked the root of the End tab": "",
+"You have unlocked the root of the End tab": "엔드 탭이 해금되었습니다",
 
-"You have unlocked the root of the Farming tab": "",
+"You have unlocked the root of the Farming tab": "농사 탭이 해금되었습니다",
 
-"You have unlocked the root of the Mining tab": "",
+"You have unlocked the root of the Mining tab": "채광 탭이 해금되었습니다",
 
-"You have unlocked the root of the Monsters tab": "",
+"You have unlocked the root of the Monsters tab": "괴물 탭이 해금되었습니다",
 
-"You have unlocked the root of the Nether tab": "",
+"You have unlocked the root of the Nether tab": "네더 탭이 해금되었습니다",
 
-"You have unlocked the root of the Potions tab": "",
+"You have unlocked the root of the Potions tab": "물약 탭이 해금되었습니다",
 
-"You have unlocked the root of the Redstone tab": "",
+"You have unlocked the root of the Redstone tab": "회로 탭이 해금되었습니다",
 
-"You have unlocked the root of the Statistics tab": "",
+"You have unlocked the root of the Statistics tab": "통계 탭이 해금되었습니다",
 
-"You have unlocked the root of the Weaponry tab": "",
+"You have unlocked the root of the Weaponry tab": "무기 탭이 해금되었습니다",
 
 
 
 
 # Welcome message
-"This world is using ": "본 세계에는",
+"This world is using ": "이 월드에는 ",
 "Blaze": "Blaze",
 "and": "and",
 "Cave": "Cave",
-"'s Advancements Pack!": "의 발전 과제 팩이 적용되어 있습니다!",
+"'s Advancements Pack!": "의 발전 과제 데이터팩이 적용되어 있습니다!",
 
 " Over ": "",
 ## Number is inserted here
-" brand new advancements in your Minecraft world!": "개 이상의 완전히 새로운 발전 과제!",
+" brand new advancements in your Minecraft world!": "개 이상의 발전 과제들이 추가되었습니다!",
 
-" - Created by ": " - 제작자: ",
+" - Created by ": " - 제작: ",
 ## Cavinator1
 
-" - For information ": " - 자세한 정보: ",
+" - For information ": " - 정보: ",
 "click here": "바로가기",
 
 " - Join my discord ": " - Discord 서버: ",
-"here": "초대 링크",
+"here": "바로가기",
 
-"Special thanks to my patreon donors: ": "Patreon 후원자분들께 감사드립니다: ",
+"Special thanks to my patreon donors: ": "도움을 주신 Patreon 후원자분들: ",
 ## Patreon Donors' names are listed here
 
 
@@ -3879,55 +3877,52 @@
 
 # Configuration Menu
 ## BlazeandCave
-"'s Advancements Pack Config": "의 발전 과제 환경설정",
+"'s Advancements Pack Config": "의 발전 과제 데이터팩 환경설정",
 
-"Welcome Message currently enabled": "환영 메시지 활성화됨",
-"Welcome Message currently disabled": "환영 메시지 비활성화됨",
+"Welcome Message currently enabled": "입장 메시지를 출력함",
+"Welcome Message currently disabled": "입장 메시지를 출력하지 않음",
 
-"Item Rewards currently enabled": "아이템 보상 활성화됨",
-"Item Rewards currently disabled": "아이템 보상 비활성화됨",
+"Item Rewards currently enabled": "아이템 보상을 지급함",
+"Item Rewards currently disabled": "아이템 보상을 지급하지 않음",
 
-"Experience Rewards currently enabled": "경험치 보상 활성화됨",
-"Experience Rewards currently disabled": "경험치 보상 비활성화됨",
+"Experience Rewards currently enabled": "경험치 보상을 지급함",
+"Experience Rewards currently disabled": "경험치 보상을 지급하지 않음",
 
-"Trophies currently enabled": "트로피 활성화됨",
-"Trophies currently disabled": "트로피 비활성화됨",
+"Trophies currently enabled": "트로피를 지급함",
+"Trophies currently disabled": "트로피를 지급하지 않음",
 
-"Display scoreboard on tab list": "탭 리스트에 스코어보드 표시",
-"Clear scoreboard from tab list": "탭 리스트에서 스코어보드 제거",
+"Display scoreboard on tab list": "탭 리스트에 스코어보드를 표시함",
+"Clear scoreboard from tab list": "탭 리스트에 스코어보드를 표시하지 않음",
 
-"Display scoreboard on sidebar": "사이드바에 스코어보드 표시",
-"Clear scoreboard from sidebar": "사이드바에서 스코어보드 제거",
+"Display scoreboard on sidebar": "사이드바에 스코어보드를 표시함",
+"Clear scoreboard from sidebar": "사이드바에 스코어보드를 표시하지 않음",
 
-"Update scoreboard": "스코어보드 갱신",
+"Update scoreboard": "스코어보드 갱신하기",
 
-"Grant trophies": "트로피 지급",
+"Grant trophies": "누락된 트로피 받기",
 
 "Click to enable": "클릭하여 활성화",
 "Click to disable": "클릭하여 비활성화",
 "Click to run": "클릭하여 실행",
 
 # Update scoreboard message
-"The advancement count of all players currently online has been updated.": "접속 중인 모든 플레이어의 발전 과제 달성 수가 갱신되었습니다.",
+"The advancement count of all players currently online has been updated.": "접속 중인 플레이어들의 스코어보드를 갱신했습니다.",
 
 # Grant trophies are you sure message
 "Are you sure?": "정말 진행하시겠습니까?",
-"This function should only be used in worlds that used the Advancements Pack before updating to the Trophy Update.": "'트로피 업데이트' 이전부터 본 발전 과제 팩이 적용되었던 세계에서만 진행하시기 바랍니다.",
-"This function may also grossly fill inventories so make sure everyone is prepared to receive them!": "엄청난 수의 트로피가 쏟아져 보관함이 넘칠 수 있으므로, 모든 인원이 받을 준비가 되었는지 다시 한 번 확인하세요!",
+"This function should only be used in worlds that used the Advancements Pack before updating to the Trophy Update.": "'트로피 업데이트' 이전에 생성한 월드에서만 진행하세요. 이 기능은 이미 달성한 발전과제의 트로피를 못 받은 경우를 위한 기능입니다.",
+"This function may also grossly fill inventories so make sure everyone is prepared to receive them!": "모든 인원의 인벤토리에 여유 공간이 있는지 다시 한 번 확인하세요!",
 
 "[ Yes ]": "[ 예 ]",
 "Click to confirm": "클릭하여 확인",
 
 "[ No ]": "[ 아니요 ]",
-"Click to go back": "클릭하여 취소",
+"Click to go back": "클릭하여 돌아가기",
 
 # Grant trophies confirmation message
-"All players have been granted trophies.": "모든 플레이어에게 트로피들이 지급되었습니다.",
-"Players that have been granted trophies by this function in the past did not receive any now. To manually re-enable trophy granting for them use the command:": "이전에 트로피 지급을 진행한 적이 있는 플레이어는 제외되었습니다. 해당 플레이어들의 트로피 지급을 재활성화시키려면 아래 명령어를 입력하세요.",
-"Click to insert command into chat": "클릭하여 채팅창에 명령어 불러오기"
-
-
-
+"All players have been granted trophies.": "모두에게 트로피를 지급했습니다.",
+"Players that have been granted trophies by this function in the past did not receive any now. To manually re-enable trophy granting for them use the command:": "이전에 트로피를 지급받은 적 있는 플레이어는 제외되었습니다. 쟂활성화시키려면 다음 명령어를 입력하세요.",
+"Click to insert command into chat": "클릭하여 복사"
 
 
 
